@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppBancaMovil</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="text_error_password">Ingresa una contraseña correcta</string>
+    <string name="password">Contraseña</string>
+    <string name="error_user">Ingrese un usuario correcto</string>
+    <string name="text_ingresa_cuenta">Ingresa tu cuenta para continuar</string>
+    <string name="usuario">Usuario</string>
+    <string name="text_no_se_encontraron_productos">No se encontraron productos.</string>
+    <string name="text_num_cuenta">Número de cuenta</string>
+    <string name="copiar">Copiar</string>
+    <string name="movimientos">Movimientos</string>
+    <string name="title_products">Productos</string>
+    <string name="detail_account">Detalle de cuenta</string>
+    <string name="retry_accounts">Ha ocurrido un error, vuelve a intentarlo.</string>
+    <string name="title_retry_accounts">Reintentar</string>
+    <string name="title_acept">Aceptar</string>
+    <string name="error_retry">No se han podido cargar las cuentas, inténtelo de nuevo.</string>
+</resources>
